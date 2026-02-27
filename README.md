@@ -118,6 +118,9 @@ Frontend → API Request → AI Processing → Clustering → Dashboard Visualiz
 Add your project screenshots here
 
 /screenshots/dashboard.png
+
+![Ai project](https://github.com/user-attachments/assets/2b849b67-1494-4d84-932c-883f0d218eba)
+
 /screenshots/upload.png
 
 ---
@@ -152,12 +155,12 @@ Nandhan S
 
 ---
 
-⭐ Support
+⭐ **Support**
 
 If you like this project, please ⭐ star the repository!
 
 ---
 
-📄 License
+📄 **License**
 
 This project is developed for educational and portfolio purposes.
