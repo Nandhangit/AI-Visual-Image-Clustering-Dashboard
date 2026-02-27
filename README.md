@@ -123,6 +123,9 @@ Add your project screenshots here
 
 /screenshots/upload.png
 
+<img width="1920" height="1080" alt="Ai project 2 jpeg" src="https://github.com/user-attachments/assets/2373527e-ea38-4c99-bf4b-54f8f363006d" />
+
+
 ---
 
 🎯 **Use Cases**
