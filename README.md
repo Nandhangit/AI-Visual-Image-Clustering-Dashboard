@@ -1,4 +1,4 @@
-🚀 AI Visual Image Clustering Dashboard
+🚀 **AI Visual Image Clustering Dashboard**
 
 An intelligent AI-powered Image Clustering Dashboard that automatically groups visually similar images using deep learning embeddings and presents results through an interactive web interface.
 
@@ -6,7 +6,7 @@ This project combines Artificial Intelligence, Backend APIs, and Modern Frontend
 
 ---
 
-📌 Project Overview
+📌 **Project Overview**
 
 The AI Visual Image Clustering Dashboard allows users to upload multiple images and automatically organize them into clusters based on visual similarity.
 
@@ -14,7 +14,7 @@ Instead of manually sorting images, the system uses deep learning feature extrac
 
 ---
 
-✨ Key Features
+✨ **Key Features**
 
 ✅ Upload multiple images
 ✅ Automatic AI-based image clustering
@@ -26,7 +26,7 @@ Instead of manually sorting images, the system uses deep learning feature extrac
 
 ---
 
-🧠 AI Workflow
+🧠 **AI Workflow**
 
 1. User uploads images through frontend
 2. Backend processes images using AI model
@@ -36,7 +36,7 @@ Instead of manually sorting images, the system uses deep learning feature extrac
 
 ---
 
-🏗️ Tech Stack
+🏗️ **Tech Stack**
 
 🔹 Backend
 
@@ -66,7 +66,7 @@ Instead of manually sorting images, the system uses deep learning feature extrac
 
 ---
 
-📂 Project Structure
+📂 **Project Structure**
 
 AI_Project/
 │
@@ -77,7 +77,7 @@ AI_Project/
 
 ---
 
-⚙️ Installation & Setup
+⚙️ **Installation & Setup**
 
 1️⃣ Clone Repository
 
@@ -107,13 +107,13 @@ npm start
 
 ---
 
-🌐 Application Flow
+🌐 **Application Flow**
 
 Frontend → API Request → AI Processing → Clustering → Dashboard Visualization
 
 ---
 
-📸 Screenshots
+📸 **Screenshots**
 
 Add your project screenshots here
 
@@ -122,7 +122,7 @@ Add your project screenshots here
 
 ---
 
-🎯 Use Cases
+🎯 **Use Cases**
 
 - Image organization systems
 - Photo management platforms
@@ -132,7 +132,7 @@ Add your project screenshots here
 
 ---
 
-🚀 Future Improvements
+🚀 **Future Improvements**
 
 - Drag & drop upload
 - Cluster statistics visualization
@@ -142,13 +142,13 @@ Add your project screenshots here
 
 ---
 
-👨‍💻 Author
+👨‍💻 **Author**
 
 Nandhan S
 
 - 💼 Python Developer | Full Stack Developer | AI Enthusiast
 - 🔗 GitHub: https://github.com/Nandhangit
-- 🔗 LinkedIn: (Add your LinkedIn profile link)
+- 🔗 LinkedIn: https://www.linkedin.com/in/nandhans
 
 ---
 
