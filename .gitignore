@@ -1,0 +1,17 @@
+# ===============================
+# ROOT LEVEL (MOST IMPORTANT)
+# ===============================
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

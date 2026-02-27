@@ -1,0 +1,43 @@
+# --extra-index-url https://download.pytorch.org/whl/cu117
+# torch==2.0.0
+# torchvision==0.15.0
+# omegaconf
+# torchmetrics==0.10.3
+# fvcore
+# iopath
+# xformers==0.0.18
+# submitit
+# # --extra-index-url https://pypi.nvidia.com
+# # cuml-cu11
+
+
+
+# CPU-only PyTorch
+--extra-index-url https://download.pytorch.org/whl/cpu
+# torch==2.0.0
+# torchvision==0.15.0
+
+# Core dependencies
+omegaconf
+torchmetrics==0.10.3
+fvcore
+iopath
+submitit
+
+# GPU-only packages REMOVED
+# xformers
+# flash-attn
+# triton
+# torch-scatter
+# torch-cluster
+
+
+streamlit==1.32.2
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.1.post1
+Pillow==10.2.0
+tqdm==4.66.2
+opencv-python==4.9.0.80
